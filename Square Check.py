@@ -7,4 +7,4 @@ def Check_Square(n):
     else:
         return False
 
-print(Check_Square(36))
+print(Check_Square(32))
